@@ -1,28 +1,30 @@
 ---
 # Display name
-title: 吳健雄
+title: Federico Verstraeten Portomeñe
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Federico
+last_name: Verstraeten
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌎
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Electronic Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Servicio Meteorológico Nacional
+    url: https://www.smn.gob.ar/
+  - name: Facultad de Ingeniería de la Universidad de Buenos Aires (FIUBA)
+    url: https://www.fi.uba.ar/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -105,10 +107,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/FedeVerstraeten
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ar.linkedin.com/in/federico-verstraeten
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
